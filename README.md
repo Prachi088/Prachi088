@@ -8,7 +8,7 @@ I enjoy solving problems, writing clean and maintainable code, and building scal
 - **Languages:** Java, C, SQL
 - **Backend:** Spring Boot, Microservices, JDBC, Apache Kafka
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Databases:** SQL, PostgreSQL, H2
+- **Databases:** SQL, PostgreSQL
 - **Tools:** Git, Maven
 - **Core Concepts:** OOP, DSA in Java
 
