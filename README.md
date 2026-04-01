@@ -16,7 +16,7 @@ I enjoy solving problems, writing clean and maintainable code, and building scal
 - **Software Engineering Virtual Intern** — JPMorgan Chase & Co. (Forage)  
   Worked on integrating Apache Kafka with Spring Boot microservices, implemented transaction validation, database persistence, and REST APIs.
 
-- **Data Analysis Intern** — Ambao Krishi Kutumb LLP  
+- **Software Developer Intern** — Ambao Krishi Kutumb LLP  
   Converted Excel data into SQL tables and JSON formats, and processed datasets using Python, SQL, and PostgreSQL.
 
 
