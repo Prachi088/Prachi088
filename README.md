@@ -87,8 +87,7 @@ A multi-user CRM platform with AI-assisted customer query handling.
 
 ## 📊 GitHub Stats
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachi088&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi088&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prachi088&theme=tokyonight&hide_border=true)
 
 ---
 
