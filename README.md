@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [Alumni Job Portal](https://github.com/Prachi088)
+### 🎓 [Alumni Job Portal](http://job-portal-frontend-prach.s3-website.ap-south-1.amazonaws.com/)
 > Java · Spring Boot · React.js · MySQL · AWS EC2/S3 · JWT · WebSocket
 
 A full-stack job portal with role-based dashboards for alumni recruiters and student candidates.
@@ -51,7 +51,7 @@ A full-stack job portal with role-based dashboards for alumni recruiters and stu
 - Deployed on AWS EC2 (backend) + S3 (frontend)
 - Debugged production issues: CORS misconfig, OOM crashes, MySQL auth failures
 
-### 🤖 [CRM Lite](https://github.com/Prachi088)
+### 🤖 [CRM Lite](https://crm-frontend-i84l.onrender.com/)
 > Java · Spring Boot · React.js · TypeScript · PostgreSQL · Docker · Groq AI
 
 A multi-user CRM platform with AI-assisted customer query handling.
