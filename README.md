@@ -51,7 +51,7 @@ A full-stack job portal with role-based dashboards for alumni recruiters and stu
 - Deployed on AWS EC2 (backend) + S3 (frontend)
 - Debugged production issues: CORS misconfig, OOM crashes, MySQL auth failures
 
-### 🤖 [CRM Lite](https://crm-frontend-i84l.onrender.com/)
+### 🤖 [CRM Lite](http://13.204.80.191/)
 > Java · Spring Boot · React.js · TypeScript · PostgreSQL · Docker · Groq AI
 
 A multi-user CRM platform with AI-assisted customer query handling.
