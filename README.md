@@ -42,23 +42,34 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [SATI Alumni Portal](https://job-portal-frontend-three-mauve.vercel.app)
-> Java · Spring Boot · React.js (Vite) · PostgreSQL (Neon) · Docker · Render · Vercel · JWT · WebSocket
+### 🎓 [Alumni Job Portal](job-portal-frontend-three-mauve.vercel.app)
+>Java · Spring Boot · React.js (Vite) · PostgreSQL (Neon) · Docker · Render · Vercel · JWT · WebSocket
+
+
 
 A full-stack college networking platform with role-based dashboards for alumni recruiters and student candidates.
-- 15+ REST APIs for auth, job listings, applications, events, and real-time messaging
-- Real-time notifications and chat via WebSocket/STOMP
-- Deployed on Render (backend, Dockerized) + Vercel (frontend)
-- AI career assistant powered by Groq (Llama 3.3)
 
-### 🤖 [CRM Lite](https://crm-frontend-i84l.onrender.com)
-> Java · Spring Boot · React.js · TypeScript · PostgreSQL (Neon) · Redis · Docker · Groq AI
+
+15+ REST APIs for auth, job listings, applications, events, and real-time messaging
+Real-time notifications and chat via WebSocket/STOMP
+Deployed on Render (backend, Dockerized) + Vercel (frontend)
+AI career assistant powered by Groq (Llama 3.3)
+
+### 🤖 [CRM Lite](https://crm-frontend-i84l.onrender.com/)
+Java · Spring Boot · React.js · TypeScript · PostgreSQL (Neon) · Redis · Docker · Groq AI
+
+
 
 A multi-user CRM platform with AI-assisted customer query handling.
-- Groq AI API integration for automated response suggestions
-- Sales pipeline tracking + analytics dashboard (Recharts)
-- Containerized with Docker, deployed on Render — Redis caching with graceful fallback
-- JWT auth, RBAC, owner-level data isolation
+
+
+Groq AI API integration for automated response suggestions
+Sales pipeline tracking + analytics dashboard (Recharts)
+Containerized with Docker, deployed on Render — Redis caching with graceful fallback
+JWT auth, RBAC, owner-level data isolation
+
+
+
 
 ---
 
